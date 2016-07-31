@@ -7,8 +7,8 @@ working on this test was to demonstrate the ability of author not to do some pur
 knowledge, but to present the way author sees the modern web based apps must be built now-a-days (even that the task
 itself doesn not cover such interesting and promissing topics as microservices, non blocking io or reactive programming
 as good examples). By modern approach author here mostly means the path when the App is an architectural composite of
-different well tested, approved by IT community and production ready components. Which allows the solution to get up and
-running as quickly as possible.
+different well tested, approved by IT community and production ready components. Which allows to make the solution to
+get up and running as quickly as possible.
 
 Restrictions: Having certain time frame for doing the test some restrictions were applied to the final result, namely
 * not the whole code was test covered, only critical places where author expected something to go wrong, were covered by tests
